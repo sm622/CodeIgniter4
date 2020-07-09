@@ -3,10 +3,12 @@ user regestration
 creates a pledge
 user login
 user input the progress
-user edit the pledge 
+user edit the pledge
 
 main website :
 Overall pledge counter
 user feeds
 
 new updates etc
+
+help
